@@ -24,8 +24,8 @@ Before you begin, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dodopayments/dodo-nextjs-minimal-boilerplate.git
-cd dodo-nextjs-minimal-boilerplate
+git clone https://github.com/Lupleg/dodo-payment-nextjs.git
+cd dodo-payment-nextjs
 ```
 
 ### 2. Install Dependencies
