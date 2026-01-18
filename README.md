@@ -33,6 +33,13 @@ cd dodo-payment-nextjs
 ```bash
 npm install
 ```
+or use `pnpm`:
+
+```bash
+pnpm install
+```
+
+
 
 ### 3. Get API Credentials
 
