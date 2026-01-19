@@ -11,7 +11,7 @@ export default function Header() {
             <span className="font-bold text-black text-lg">D</span>
           </div>
           <span className="font-bold text-white text-lg tracking-tight hidden sm:block">
-            Dodo Payments Boilerplate
+            DodoPay Nextjs
           </span>
         </Link>
 
