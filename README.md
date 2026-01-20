@@ -1,4 +1,4 @@
-# Dodo Payments Next.js Boilerplate
+# DodoPay Next.js
 
 A minimal Nextjs boilerplate for integrating [Dodo Payments](https://dodopayments.com/) into your [Next.js](https://nextjs.org/) application.
 
